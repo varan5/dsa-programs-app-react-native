@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Validate Subsequence",
+        "program": {
+            "method_1": {
+                "code": "This is the code for method 1",
+                "timeComplexity": "O(N)",
+                "spaceComplexity": "O(1)"
+            },
+            "method_2": {
+                "code": "This is the code for method 2",
+                "timeComplexity": "O(N)",
+                "spaceComplexity": "O(1)"
+            },
+            "method_3": {
+                "code": "This is the code for method 3",
+                "timeComplexity": "O(N)",
+                "spaceComplexity": "O(1)"
+            }
+        },
+        "theory": {
+            "title": "Theory for Validating Subsequence",
+            "description": "This is the description for the Validate Subsequence program"
+        }
+    }
+]
